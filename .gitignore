@@ -1,0 +1,8 @@
+# Ignore Logs
+*.log
+*.xyz
+*.o
+*.exe
+*.meta
+*.xlsx
+
