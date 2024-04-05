@@ -1,5 +1,5 @@
 # MLforChem
-## Machine learning models for chemical calculations
+## Machine learning models for ground state energy predictions
 There are copious amounts of molecules whose ground state energies would have to be calculated to determine appropriate use in applications (i.e drug discovery). Possibly years of calculations would be needed to obtain the energies of all molecules.
 A machine learning model can be trained to predict the ground state of a given molecule. In this project multiple models are tested to determine which model is able to predict the energies better.
 ## Data
